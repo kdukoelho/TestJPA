@@ -18,7 +18,7 @@ class People{
 +getId()
 +getName()
 +setId()
-+setNam()
++setName()
 }
 ```
 
