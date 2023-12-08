@@ -8,9 +8,7 @@ Java Persistence Annotation, or JPA, is a Java Framework that facilitates the co
 
 The goal of this project is to create a table, and from console entries create, delete and find entries using Java Persistence Annotation (JPA).
 
-## Database Schema
-
-The following Class Diagram describe the MySQL database structure.
+## Classes Schema
 
 ```mermaid
 classDiagram
